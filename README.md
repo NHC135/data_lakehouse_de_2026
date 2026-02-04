@@ -4,8 +4,7 @@ This repository contains a complete, real-world Data Lakehouse implementation bu
 
 # Architecture
 This project follows the Medallion Architecture:  
-[DATA MODEL DATA LAKEHOUSE.drawio.pdf](https://github.com/user-attachments/files/25062876/DATA.MODEL.DATA.LAKEHOUSE.drawio.pdf)  
-<img width="767" height="748" alt="Data Model Star Schema" src="https://github.com/user-attachments/assets/1651552a-693c-45d9-a9f2-3c18bc31650a" />
+<img width="724" height="799" alt="data model" src="https://github.com/user-attachments/assets/4fd0a80e-a4c5-4f8c-beef-d54f4681e159" />
 
 ## Bronze Layer
 Raw data ingestion
@@ -15,6 +14,7 @@ Data cleaning and standardization
 Type casting and validation
 ## Gold Layer
 Dimensional Data Model (Business Transformation)
+<img width="767" height="748" alt="Data Model Star Schema" src="https://github.com/user-attachments/assets/1651552a-693c-45d9-a9f2-3c18bc31650a" />
 Ready for BI and analysis
 
 ## Technologies Used
