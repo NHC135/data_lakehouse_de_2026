@@ -14,8 +14,8 @@ Data cleaning and standardization
 Type casting and validation
 ## Gold Layer
 Dimensional Data Model (Business Transformation)
+Ready for BI and analysis  
 <img width="767" height="748" alt="Data Model Star Schema" src="https://github.com/user-attachments/assets/1651552a-693c-45d9-a9f2-3c18bc31650a" />
-Ready for BI and analysis
 
 ## Technologies Used
 Databricks  
