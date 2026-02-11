@@ -27,5 +27,8 @@ Spark SQL
 Delta Lake  
 Unity Catalog  
 
+## Documentation & Pipeline Follow-ups   
+https://www.notion.so/2fd7e74ba6a3804aa0a4e89b57de853d?v=2fd7e74ba6a380b8817b000c6687e494&source=copy_link
+
 ## License
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
